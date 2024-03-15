@@ -1,0 +1,25 @@
+name: main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      COINCAP_API_KEY: ${{ secrets.COINCAP_API_KEY }}
+      COINUME_BACKEND_IP: ${{ secrets.COINUME_BACKEND_IP }}
+      COINUME_API: ${{ secrets.COINUME_API }}
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+      
+    - name: Print Secrets
+      run: |
+        echo "COINCAP_API_KEY: $COINCAP_API_KEY"
+        echo "COINUME_BACKEND_IP: $COINUME_BACKEND_IP"
+        echo "COINUME_API: $COINUME_API"
