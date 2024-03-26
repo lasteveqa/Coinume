@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a466105c.css",
-    "main.js": "/static/js/main.45926a27.js",
+    "main.css": "/static/css/main.de386f73.css",
+    "main.js": "/static/js/main.ddb6b22f.js",
     "static/js/787.825271fa.chunk.js": "/static/js/787.825271fa.chunk.js",
-    "static/media/binance.jfif": "/static/media/binance.9fc1b2e763ccec53e316.jfif",
     "static/media/blog.png": "/static/media/blog.2ca42899d734001b4993.png",
+    "static/media/Ad-sidebar.png": "/static/media/Ad-sidebar.45a133024e5b3c7c4529.png",
     "static/media/banner.png": "/static/media/banner.45d5e6a5a9049b4a1499.png",
+    "static/media/ad-leaderboard-desktop.png": "/static/media/ad-leaderboard-desktop.9bf38d221d9d7bebd903.png",
     "static/media/logo.png": "/static/media/logo.0b3fc07b18726749ee60.png",
     "static/media/donateyellow.png": "/static/media/donateyellow.01c535cbb3d77310a940.png",
+    "static/media/Ad-tablet.png": "/static/media/Ad-tablet.99a572c886e0ab28008c.png",
+    "static/media/ad-leaderboard-mobile.png": "/static/media/ad-leaderboard-mobile.1a9d6348cad2ae84e859.png",
     "static/media/fire.svg": "/static/media/fire.b842274f00d4587d386c21f70a50f856.svg",
     "index.html": "/index.html",
-    "main.a466105c.css.map": "/static/css/main.a466105c.css.map",
-    "main.45926a27.js.map": "/static/js/main.45926a27.js.map",
+    "main.de386f73.css.map": "/static/css/main.de386f73.css.map",
+    "main.ddb6b22f.js.map": "/static/js/main.ddb6b22f.js.map",
     "787.825271fa.chunk.js.map": "/static/js/787.825271fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a466105c.css",
-    "static/js/main.45926a27.js"
+    "static/css/main.de386f73.css",
+    "static/js/main.ddb6b22f.js"
   ]
 }
